@@ -33,14 +33,14 @@ During my ArcGIS Experience Builder internship, I developed an interactive dashb
 	•	The application served multiple users, including IT departments and college leadership, providing them with relevant building data for strategic planning.
 	•	The primary use case was for renovation planning—ensuring that leadership could make informed decisions based on current and historical building data.
 
-Technologies Used
-	•	ArcGIS Experience Builder: Used for building the dashboard interface and integrating the map with dynamic data.
+**Technologies Used
+**	•	ArcGIS Experience Builder: Used for building the dashboard interface and integrating the map with dynamic data.
 	•	Survey123: Used to collect and structure building data with customizable forms.
 	•	Arcade (JavaScript): Custom scripts for displaying the data.
 	•	ArcGIS Online: For hosting and managing the data layers used in the dashboard.
 
-Key Features of the Dashboard
-	•	Interactive Map: Click on any building on the map to view detailed information about that building, including building class and room-specific data.
+**Key Features of the Dashboard
+**	•	Interactive Map: Click on any building on the map to view detailed information about that building, including building class and room-specific data.
 	•	Dynamic Data Updates: Any updates to building data, whether added through the Survey123 form or manually edited, automatically update the dashboard to reflect real-time information.
 	•	Modular Structure: The application can easily scale, allowing new building data or modifications to be incorporated into the dashboard without downtime or manual intervention.
 	•	Customizable: Future users or editors can update or expand the data without needing extensive technical knowledge, making the system highly adaptable for ongoing campus needs.
